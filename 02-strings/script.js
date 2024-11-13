@@ -10,9 +10,9 @@ console.log(name)
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
-let number = "123"
+let number = 123
 let text = "ciao"
-let bool = "false"
+let bool = false
 
 console.log(number, text, bool)
 
